@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered the IAS-NTU STEM Graduate Colloquium at Nanyang Technological University, Singapore on "Left, Right and Ultrafast: Chiral Dynamics in Gold Nanoparticles and Perovskite Lattices". <a href="https://www.ntu.edu.sg/ias/news-events/news/detail/left--right-and-ultrafast--chiral-dynamics-in-gold-nanoparticles-and-perovskite-lattices">Read the article about the talk</a> in Institute of Advanced Study (IAS) News page. 
+New Publication in the Journal of American Chemical Society. Its about correlations between quantum entangled photon pairs makes it much simpler to reveal quantum coherences in molecules. Read more here: <a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08192/5284015/Instantaneous-Detection-of-Quantum-Coherences-in">Instantaneous Detection of Quantum Coherences in 2D Electronic Spectroscopy with Bright Entangled Beams</a>
