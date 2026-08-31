@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2026-08-21 16:11:00-0400
+date: 2026-08-31 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-New Publication in the Journal of American Chemical Society. Its about correlations between quantum entangled photon pairs makes it much simpler to reveal quantum coherences in molecules. Read more here: <a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08192/5284015/Instantaneous-Detection-of-Quantum-Coherences-in">Instantaneous Detection of Quantum Coherences in 2D Electronic Spectroscopy with Bright Entangled Beams</a>
+New Preprint: We further explore the use of quantum entangled photons in spectroscopy. This time we address the long standing debate around entangled two-photon absorption. Read more here: <a href="https://doi.org/10.48550/arXiv.2608.27157">Franson-Interferometric Bounds on Entangled Two-Photon Absorption</a>
