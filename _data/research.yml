@@ -28,5 +28,7 @@
   text: >
     Entangled photon pairs carry time–frequency correlations no classical pulse can reproduce. We explored the use of bright entangled beams in 2D electronic spectroscopy to detect electronic, vibrational and vibronic coherences in a single snapshot, each appearing at its own point in the spectrum — separating coherence from population dynamics without temporal scanning. Separately, we used Franson interferometry to place background-free quantitative bounds on entangled two-photon absorption in dye molecules.
   links:
-    - label: "Coming Soon!"
-      url: "#"
+    - label: "Paper"
+      url: https://doi.org/10.1021/jacs.6c08192
+    - label: "Preprint (2026)"
+      url: https://doi.org/10.48550/arXiv.2608.27157
